@@ -1,6 +1,8 @@
 # BTS Flight Delays Dataset
 **Source:** [Bureau of Transportation Statistics](https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr)
 
+To obtain the data, I downloaded all data for Jan 2025, Feb 2025, ..., Nov 2025 (11 datasets total). At the time of data-gathering, Dec 2025 is not yet available. 
+
 The columns downloaded from the database are listed below:
 
 | Field Name | Description |
